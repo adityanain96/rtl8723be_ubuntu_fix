@@ -1,17 +1,17 @@
 # rtl8723be_ubuntu_fix
 rtl8723be ubuntu wifi fix shell script
 
-clone and download from the github link below
+1. Clone and download from the github link : 
 https://github.com/lwfinger/rtlwifi_new
 
-extract the file
+2. Extract the file
 
-open terminal from inside the folder you extracted
+3. Open terminal from inside the folder you extracted
 
-type chmod 755 wifi_fix.sh and hit enter
+4. Type chmod 755 wifi_fix.sh and hit enter
 
-type ./wifi-fix.sh and hit enter
+5. Type ./wifi_fix.sh and hit enter
 
-voila! enjoy your wifi
+Voila! enjoy your wifi
 
 
